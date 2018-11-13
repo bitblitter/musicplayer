@@ -1,0 +1,15 @@
+.InputSearch {
+}
+
+.InputSearch input[type="text"] {
+  padding-left: 2em;
+}
+
+.InputSearch .Icon.search {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #999;
+  z-index: 1;
+  padding-left: 1em;
+}

@@ -1,0 +1,14 @@
+.Input {
+  position: relative;
+}
+
+.Input input[type="text"] {
+  border-radius: 50px;
+  border: none;
+  background: white;
+  padding: 4px;
+}
+
+.Input input:focus {
+  outline: none;
+}

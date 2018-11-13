@@ -1,0 +1,26 @@
+.SearchBox {
+  padding: 10px;
+  position: relative;
+}
+
+.SearchBox .search-input {
+  border-radius: 50px;
+  border: none;
+  padding: 4px;
+  padding-left: 2em;
+}
+
+.SearchBox .search-input:focus {
+  outline: none;
+}
+
+.SearchBox .Icon.search {
+  color: #ccc;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding-left: 5px;
+}

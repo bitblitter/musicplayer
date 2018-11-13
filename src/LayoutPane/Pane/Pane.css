@@ -1,0 +1,14 @@
+.Pane {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: auto;
+}
+
+.Pane.autosize {
+  flex: 0;
+}
+
+.Pane.horizontal {
+  flex-direction: row;
+}

@@ -1,0 +1,10 @@
+.NavLink {
+  padding: 5px 0;
+  color: #999;
+  cursor: default;
+  font-size: 0.8em;
+}
+
+.NavLink:hover {
+  color: #fff;
+}

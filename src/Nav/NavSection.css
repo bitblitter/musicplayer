@@ -1,0 +1,10 @@
+.NavSection {
+  min-height: min-content;
+}
+
+.NavSection h1 {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #999;
+  text-transform: uppercase;
+}
